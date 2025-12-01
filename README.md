@@ -7,7 +7,10 @@ nomes:
         Gustavo Franzin Campanha - 12717700
 
 
-![Alt text]("C:\Users\anton\Downloads\monitor.jpg")
+A ideia do projeto é fazer inicializar o programa blink.py (que pisca o LED), juntamente com a inicialização do sistema
+
+![montagem](montagem.jpg)
+![Monitor](monitor.jpg)
 
 
 
